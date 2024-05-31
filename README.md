@@ -14,7 +14,7 @@ Install package with pip. (Preferable in Python Virtual Environment)
 
 This is example code to start using this package.
 ```python
-from foo_param.calculation import calculate_volume
+from foo_param.calculations import calculate_volume
 
 RADIUS = 5
 VOLUME = calculate_volume(RADIUS)
