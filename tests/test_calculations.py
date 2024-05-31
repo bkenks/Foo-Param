@@ -11,8 +11,8 @@ class TestCalculations(unittest.TestCase):
 
         """ Test the volume returned from calculate_volume() """
 
-        self.assertAlmostEqual(calculate_volume(5), 523.59878)
-        self.assertAlmostEqual(calculate_volume(6), 904.77868)
+        self.assertAlmostEqual(calculate_volume(5), 523.5987755982989)
+        self.assertAlmostEqual(calculate_volume(6), 904.7786842338603)
 
     def test_calculate_volume_invalid_radius(self):
 
