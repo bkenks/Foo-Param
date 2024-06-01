@@ -1,1 +1,1 @@
-""" Black __init__.py for package """
+""" Blank __init__.py for package """
